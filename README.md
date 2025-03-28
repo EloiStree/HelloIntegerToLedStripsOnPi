@@ -14,3 +14,8 @@ https://amzn.to/3DY2RGU
 
 [![image](https://github.com/user-attachments/assets/3d0373d3-36c3-48b5-b1dc-b37671a4daae)](https://youtu.be/KFtjf5mD6tA?t=314)  
 https://youtu.be/KFtjf5mD6tA?t=314  
+
+
+S-300-5 5V N Amper  
+[![image](https://github.com/user-attachments/assets/a59f91e3-d30b-41c4-8407-61c1f2ed00b4)](https://amzn.to/4c9uVn5)  
+https://amzn.to/4c9uVn5    
