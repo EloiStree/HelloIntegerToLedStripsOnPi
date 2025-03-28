@@ -2,11 +2,15 @@
 I need to learn how I can use led strips addressable on Pi that would be controllable by integer value (for APInt)
 
 
-
-[![image](https://github.com/user-attachments/assets/46e27c33-c634-4358-85e5-005ff07df3a9)](https://youtu.be/rHoFqKGOPRI?t=181)
-https://youtu.be/rHoFqKGOPRI?t=181
+ 
+[![image](https://github.com/user-attachments/assets/46e27c33-c634-4358-85e5-005ff07df3a9)](https://youtu.be/rHoFqKGOPRI?t=181)   
+https://youtu.be/rHoFqKGOPRI?t=181  
 
 
 The one I bought:
-[![image](https://github.com/user-attachments/assets/4a14988b-7618-44b7-b2e4-3b508604d159)](https://amzn.to/3DY2RGU)
-https://amzn.to/3DY2RGU
+[![image](https://github.com/user-attachments/assets/4a14988b-7618-44b7-b2e4-3b508604d159)](https://amzn.to/3DY2RGU)  
+https://amzn.to/3DY2RGU  
+
+
+[![image](https://github.com/user-attachments/assets/3d0373d3-36c3-48b5-b1dc-b37671a4daae)](https://youtu.be/KFtjf5mD6tA?t=314)  
+https://youtu.be/KFtjf5mD6tA?t=314  
