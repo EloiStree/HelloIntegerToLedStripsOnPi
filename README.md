@@ -11,7 +11,7 @@ The one I bought:
 [![image](https://github.com/user-attachments/assets/4a14988b-7618-44b7-b2e4-3b508604d159)](https://amzn.to/3DY2RGU)  
 https://amzn.to/3DY2RGU  
 
-
+Tesfish WS2812B 5V RGB LED Pixel Strip 1 m 144 LEDs/M IP30 PCB Black Flexible Full Colour Addressable Individually Smart for Advertising Decoration DIY Projects 
 [![image](https://github.com/user-attachments/assets/3d0373d3-36c3-48b5-b1dc-b37671a4daae)](https://youtu.be/KFtjf5mD6tA?t=314)  
 https://youtu.be/KFtjf5mD6tA?t=314  
 
