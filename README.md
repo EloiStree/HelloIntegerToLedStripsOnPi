@@ -22,3 +22,7 @@ https://amzn.to/4c9uVn5
 
 
 ![image](https://github.com/user-attachments/assets/e31ccf2c-218a-4edd-8b5e-24c801ed89b9)
+
+
+Good tutorial:
+https://core-electronics.com.au/guides/fully-addressable-rgb-raspberry-pi/
